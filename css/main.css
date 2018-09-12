@@ -1,0 +1,58 @@
+.default-bg {
+  background-color: #4267b2;
+  color: #fff; }
+
+.secandary-text {
+  color: #396; }
+
+img {
+  width: 100%; }
+
+.more-btn {
+  margin: 10px auto; }
+
+#main-header #navbar {
+  background-color: #fff !important;
+  color: #369 !important;
+  border-bottom: 1px solid #369 !important; }
+  #main-header #navbar .navbar-brand {
+    font-size: 2rem !important;
+    font-weight: bold;
+    color: #369 !important; }
+  #main-header #navbar .navbar-nav li a {
+    font-size: 1.3rem;
+    text-transform: uppercase; }
+#main-header .navbar-light .navbar-nav .active > .nav-link,
+#main-header .navbar-light .navbar-nav .nav-link.active,
+#main-header .navbar-light .navbar-nav .nav-link.show,
+#main-header .navbar-light .navbar-nav .show > .nav-link {
+  padding-bottom: 3px;
+  border-bottom: 3px solid #369 !important; }
+#main-header #showcase {
+  background: url("../img/showcase1.jpeg") center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 80vh; }
+
+#booking-now form .form-group {
+  margin: 0.5rem !important; }
+
+#concrete {
+  background: url("../img/concrete.jpeg") center center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+  color: #fff; }
+  #concrete p {
+    font-size: 1.5rem;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 5px; }
+
+#info {
+  background: #222;
+  color: #ddd; }
+
+footer {
+  background: #396;
+  color: #fff; }
+
+/*# sourceMappingURL=main.css.map */
